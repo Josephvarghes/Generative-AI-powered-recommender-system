@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from PIL import Image
 
 # Load model
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("./all-MiniLM-L6-v2")
 
 # Load assessments
 with open("data/assessments.json", "r") as f:
