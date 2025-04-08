@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+    "duration": "approximate completion time in minutes = 49",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Competency",
+      "Personality and Behavioral",
+      "Ability and Aptitude",
+      "Biodata and Situational Judgment"
+    ]
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "duration": "approximate completion time in minutes = 36",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Ability and Aptitude",
+      "Knowledge and Skill",
+      "Personality and Behavioral"
+    ]
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/",
+    "duration": "approximate completion time in minutes = 51",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Ability and Aptitude",
+      "Biodata and Situational Judgment",
+      "Personality and Behavioral",
+      "Situation"
+    ]
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "duration": "approximate completion time in minutes = 30",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Biodata and Situational Judgment",
+      "Personality and Behavioral"
+    ]
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "duration": "approximate completion time in minutes = 20",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Biodata and Situational Judgment",
+      "Personality and Behavioral"
+    ]
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "duration": "approximate completion time in minutes = 35",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Ability and Aptitude",
+      "Biodata and Situational Judgment",
+      "Knowledge and Skill",
+      "Personality and Behavioral"
+    ]
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-collections-agent-short-form/",
+    "duration": "approximate completion time in minutes = 45",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Ability and Aptitude",
+      "Biodata and Situational Judgment",
+      "Personality and Behavioral"
+    ]
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "duration": "approximate completion time in minutes = 45",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Ability and Aptitude",
+      "Biodata and Situational Judgment",
+      "Personality and Behavioral",
+      "Situation"
+    ]
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "duration": "approximate completion time in minutes = 43",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Biodata and Situational Judgment",
+      "Personality and Behavioral",
+      "Situation",
+      "Ability and Aptitude"
+    ]
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "duration": "approximate completion time in minutes = 49",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Personality and Behavioral",
+      "Situation",
+      "Knowledge and Skill",
+      "Biodata and Situational Judgment",
+      "Ability and Aptitude"
+    ]
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/branch-manager-short-form/",
+    "duration": "approximate completion time in minutes = 50",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Ability and Aptitude",
+      "Biodata and Situational Judgment",
+      "Personality and Behavioral"
+    ]
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cashier-solution/",
+    "duration": "approximate completion time in minutes = 28",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "test_types": [
+      "Biodata and Situational Judgment",
+      "Ability and Aptitude",
+      "Personality and Behavioral"
+    ]
+  }
+]
