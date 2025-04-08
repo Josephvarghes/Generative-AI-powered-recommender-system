@@ -1,8 +1,6 @@
-streamlit==1.33.0
-sentence-transformers==2.2.2
-scikit-learn==1.4.1
-fpdf2==2.7.8
-beautifulsoup4==4.12.3
-requests==2.31.0
-numpy==1.26.4
-pandas==2.2.1
+streamlit
+sentence-transformers
+scikit-learn
+fpdf2
+requests
+beautifulsoup4
